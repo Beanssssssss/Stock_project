@@ -1,0 +1,504 @@
+종목,상승여부
+3M,상승
+A- O- Smith,상승
+Abbott Laboratories,상승
+AbbVie,상승
+Accenture,상승
+Adobe Inc-,상승
+Advanced Micro Devices,상승
+AES Corporation,상승
+Aflac,상승
+Agilent Technologies,상승
+Air Products,상승
+Airbnb,하락
+Akamai Technologies,하락
+Albemarle Corporation,하락
+Alexandria Real Estate Equities,상승
+Align Technology,상승
+Allegion,상승
+Alliant Energy,상승
+Allstate,상승
+Alphabet Inc- (Class A),하락
+Alphabet Inc- (Class C),하락
+Altria,상승
+Amazon,상승
+Amcor,상승
+Ameren,상승
+American Electric Power,상승
+American Express,상승
+American International Group,상승
+American Tower,상승
+American Water Works,상승
+Ameriprise Financial,하락
+Ametek,상승
+Amgen,상승
+Amphenol,상승
+Analog Devices,상승
+Ansys,하락
+Aon plc,상승
+APA Corporation,상승
+Apollo Global Management,상승
+Apple Inc-,하락
+Applied Materials,하락
+Aptiv,상승
+Arch Capital Group,상승
+Archer Daniels Midland,상승
+Arista Networks,하락
+Arthur J- Gallagher & Co-,상승
+Assurant,상승
+AT&T,하락
+Atmos Energy,상승
+Autodesk,하락
+Automatic Data Processing,하락
+AutoZone,하락
+AvalonBay Communities,상승
+Avery Dennison,상승
+Axon Enterprise,하락
+Baker Hughes,상승
+Ball Corporation,상승
+Bank of America,상승
+Baxter International,상승
+Becton Dickinson,상승
+Berkshire Hathaway,상승
+Best Buy,하락
+Bio-Techne,상승
+Biogen,상승
+BlackRock,상승
+Blackstone Inc-,상승
+BNY Mellon,상승
+Boeing,상승
+Booking Holdings,상승
+Boston Scientific,하락
+Bristol Myers Squibb,상승
+Broadcom,상승
+Broadridge Financial Solutions,하락
+Brown & Brown,상승
+Brown–Forman,상승
+Builders FirstSource,상승
+Bunge Global,하락
+"BXP, Inc-",상승
+C-H- Robinson,상승
+Cadence Design Systems,하락
+Caesars Entertainment,하락
+Camden Property Trust,상승
+Campbell's Company (The),상승
+Capital One,하락
+Cardinal Health,상승
+CarMax,상승
+Carnival,상승
+Carrier Global,상승
+Caterpillar Inc-,상승
+Cboe Global Markets,상승
+CBRE Group,상승
+CDW Corporation,하락
+Cencora,상승
+Centene Corporation,상승
+CenterPoint Energy,하락
+CF Industries,하락
+Charles River Laboratories,상승
+Charles Schwab Corporation,하락
+Charter Communications,하락
+Chevron Corporation,상승
+Chipotle Mexican Grill,하락
+Chubb Limited,상승
+Church & Dwight,상승
+Cigna,상승
+Cincinnati Financial,상승
+Cintas,하락
+Cisco,하락
+Citigroup,상승
+Citizens Financial Group,상승
+Clorox,상승
+CME Group,하락
+CMS Energy,상승
+Coca-Cola Company (The),상승
+Cognizant,상승
+Coinbase,하락
+Colgate-Palmolive,상승
+Comcast,하락
+Conagra Brands,하락
+ConocoPhillips,상승
+Consolidated Edison,상승
+Constellation Brands,상승
+Constellation Energy,하락
+Cooper Companies (The),하락
+Copart,하락
+Corning Inc-,상승
+Corpay,상승
+Corteva,하락
+CoStar Group,하락
+Costco,하락
+Coterra,상승
+CrowdStrike,하락
+Crown Castle,상승
+CSX Corporation,상승
+Cummins,상승
+CVS Health,상승
+Danaher Corporation,상승
+Darden Restaurants,하락
+DaVita,하락
+Dayforce,상승
+Deckers Brands,상승
+Deere & Company,하락
+Dell Technologies,하락
+Delta Air Lines,하락
+Devon Energy,상승
+Dexcom,하락
+Diamondback Energy,상승
+Digital Realty,상승
+Dollar General,하락
+Dollar Tree,상승
+Dominion Energy,상승
+Domino's,하락
+DoorDash,하락
+Dover Corporation,상승
+Dow Inc-,상승
+D- R- Horton,상승
+DTE Energy,상승
+Duke Energy,상승
+DuPont,상승
+Eastman Chemical Company,상승
+Eaton Corporation,하락
+eBay Inc-,상승
+Ecolab,상승
+Edison International,상승
+Edwards Lifesciences,상승
+Electronic Arts,하락
+Elevance Health,상승
+Emerson Electric,상승
+Enphase Energy,상승
+Entergy,상승
+EOG Resources,하락
+EPAM Systems,하락
+EQT Corporation,하락
+Equifax,상승
+Equinix,상승
+Equity Residential,상승
+Erie Indemnity,상승
+Essex Property Trust,상승
+Estée Lauder Companies (The),상승
+Everest Group,상승
+Evergy,상승
+Eversource Energy,상승
+Exelon,상승
+Expand Energy,상승
+Expedia Group,하락
+Expeditors International,상승
+Extra Space Storage,상승
+ExxonMobil,상승
+"F5, Inc-",하락
+FactSet,상승
+Fair Isaac,상승
+Fastenal,하락
+Federal Realty Investment Trust,상승
+FedEx,상승
+Fidelity National Information Services,하락
+Fifth Third Bancorp,상승
+First Solar,하락
+FirstEnergy,상승
+Fiserv,하락
+Ford Motor Company,상승
+Fortinet,하락
+Fortive,하락
+Fox Corporation (Class A),하락
+Fox Corporation (Class B),하락
+Franklin Resources,상승
+Freeport-McMoRan,상승
+Garmin,상승
+Gartner,상승
+GE Aerospace,상승
+GE HealthCare,상승
+GE Vernova,하락
+Gen Digital,하락
+Generac,하락
+General Dynamics,상승
+General Mills,상승
+General Motors,상승
+Genuine Parts Company,상승
+Gilead Sciences,상승
+Global Payments,상승
+Globe Life,상승
+GoDaddy,상승
+Goldman Sachs,하락
+Halliburton,상승
+Hartford (The),상승
+Hasbro,상승
+HCA Healthcare,상승
+Healthpeak Properties,상승
+Henry Schein,하락
+Hershey Company (The),상승
+Hess Corporation,상승
+Hewlett Packard Enterprise,하락
+Hilton Worldwide,하락
+Hologic,하락
+Home Depot (The),상승
+Honeywell,상승
+Hormel Foods,상승
+Host Hotels & Resorts,상승
+Howmet Aerospace,하락
+HP Inc-,하락
+Hubbell Incorporated,상승
+Humana,상승
+Huntington Bancshares,상승
+Huntington Ingalls Industries,하락
+IBM,하락
+IDEX Corporation,상승
+Idexx Laboratories,상승
+Illinois Tool Works,상승
+Incyte,상승
+Ingersoll Rand,상승
+Insulet Corporation,상승
+Intel,하락
+Intercontinental Exchange,상승
+International Flavors & Fragrances,상승
+International Paper,상승
+Interpublic Group of Companies (The),하락
+Intuit,상승
+Intuitive Surgical,상승
+Invesco,상승
+Invitation Homes,상승
+IQVIA,상승
+Iron Mountain,상승
+J-B- Hunt,상승
+Jabil,상승
+Jack Henry & Associates,하락
+Jacobs Solutions,하락
+Johnson & Johnson,상승
+Johnson Controls,상승
+JPMorgan Chase,상승
+Juniper Networks,상승
+Kellanova,상승
+Kenvue,상승
+Keurig Dr Pepper,상승
+KeyCorp,상승
+Keysight Technologies,상승
+Kimberly-Clark,상승
+Kimco Realty,상승
+Kinder Morgan,하락
+KKR & Co-,상승
+KLA Corporation,하락
+Kraft Heinz,상승
+Kroger,하락
+L3Harris,하락
+Labcorp,하락
+Lam Research,상승
+Lamb Weston,상승
+Las Vegas Sands,상승
+Leidos,하락
+Lennar,상승
+Lennox International,상승
+Lilly (Eli),상승
+Linde plc,상승
+Live Nation Entertainment,하락
+LKQ Corporation,상승
+Lockheed Martin,상승
+Loews Corporation,상승
+Lowe's,상승
+Lululemon Athletica,상승
+LyondellBasell,상승
+M&T Bank,상승
+Marathon Petroleum,상승
+MarketAxess,하락
+Marriott International,하락
+Marsh McLennan,상승
+Martin Marietta Materials,하락
+Masco,상승
+Mastercard,상승
+Match Group,하락
+McCormick & Company,상승
+McDonald's,하락
+McKesson Corporation,상승
+Medtronic,상승
+Merck & Co-,상승
+Meta Platforms,상승
+MetLife,상승
+Mettler Toledo,상승
+MGM Resorts,하락
+Microchip Technology,상승
+Micron Technology,상승
+Microsoft,상승
+Mid-America Apartment Communities,상승
+Moderna,상승
+Mohawk Industries,상승
+Molina Healthcare,상승
+Molson Coors Beverage Company,상승
+Mondelez International,상승
+Monolithic Power Systems,상승
+Monster Beverage,하락
+Moody's Corporation,상승
+Morgan Stanley,상승
+Mosaic Company (The),하락
+Motorola Solutions,하락
+MSCI Inc-,상승
+"Nasdaq, Inc-",상승
+NetApp,하락
+Netflix,하락
+Newmont,하락
+News Corp (Class A),상승
+News Corp (Class B),상승
+NextEra Energy,상승
+"Nike, Inc-",하락
+NiSource,상승
+Nordson Corporation,상승
+Norfolk Southern,상승
+Northern Trust,상승
+Northrop Grumman,상승
+Norwegian Cruise Line Holdings,상승
+NRG Energy,하락
+Nucor,상승
+Nvidia,상승
+"NVR, Inc-",상승
+NXP Semiconductors,하락
+O’Reilly Automotive,하락
+Occidental Petroleum,상승
+Old Dominion,하락
+Omnicom Group,상승
+ON Semiconductor,상승
+Oneok,상승
+Oracle Corporation,하락
+Otis Worldwide,상승
+Paccar,상승
+Packaging Corporation of America,상승
+Palantir Technologies,하락
+Palo Alto Networks,하락
+Paramount Global,상승
+Parker Hannifin,상승
+Paychex,상승
+Paycom,하락
+PayPal,하락
+Pentair,상승
+PepsiCo,상승
+Pfizer,상승
+PG&E Corporation,상승
+Philip Morris International,하락
+Phillips 66,상승
+Pinnacle West Capital,상승
+PNC Financial Services,상승
+Pool Corporation,상승
+PPG Industries,상승
+PPL Corporation,상승
+Principal Financial Group,상승
+Procter & Gamble,상승
+Progressive Corporation,상승
+Prologis,상승
+Prudential Financial,상승
+Public Service Enterprise Group,상승
+PTC Inc-,상승
+Public Storage,상승
+PulteGroup,상승
+Quanta Services,하락
+Qualcomm,상승
+Quest Diagnostics,상승
+Ralph Lauren Corporation,하락
+Raymond James Financial,상승
+RTX Corporation,상승
+Realty Income,상승
+Regency Centers,상승
+Regeneron Pharmaceuticals,상승
+Regions Financial Corporation,상승
+Republic Services,상승
+ResMed,상승
+Revvity,상승
+Rockwell Automation,상승
+"Rollins, Inc-",상승
+Roper Technologies,하락
+Ross Stores,하락
+Royal Caribbean Group,상승
+S&P Global,상승
+Salesforce,하락
+SBA Communications,상승
+Schlumberger,상승
+Seagate Technology,상승
+Sempra,상승
+ServiceNow,하락
+Sherwin-Williams,상승
+Simon Property Group,상승
+Skyworks Solutions,하락
+J-M- Smucker Company (The),상승
+Smurfit Westrock,상승
+Snap-on,상승
+Solventum,하락
+Southern Company,상승
+Southwest Airlines,상승
+Stanley Black & Decker,상승
+Starbucks,하락
+State Street Corporation,상승
+Steel Dynamics,하락
+Steris,상승
+Stryker Corporation,상승
+Supermicro,하락
+Synchrony Financial,하락
+Synopsys,하락
+Sysco,상승
+T-Mobile US,하락
+T- Rowe Price,상승
+Take-Two Interactive,하락
+"Tapestry, Inc-",하락
+Targa Resources,하락
+Target Corporation,하락
+TE Connectivity,상승
+Teledyne Technologies,상승
+Teradyne,상승
+"Tesla, Inc-",상승
+Texas Instruments,상승
+Texas Pacific Land Corporation,하락
+Textron,상승
+Thermo Fisher Scientific,상승
+TJX Companies,상승
+TKO Group Holdings,하락
+Tractor Supply,하락
+Trane Technologies,하락
+TransDigm Group,상승
+Travelers Companies (The),상승
+Trimble Inc-,상승
+Truist Financial,상승
+Tyler Technologies,하락
+Tyson Foods,상승
+U-S- Bancorp,상승
+Uber,하락
+"UDR, Inc-",상승
+Ulta Beauty,상승
+Union Pacific Corporation,상승
+United Airlines Holdings,상승
+United Parcel Service,상승
+United Rentals,상승
+UnitedHealth Group,상승
+Universal Health Services,상승
+Valero Energy,상승
+Ventas,하락
+Veralto,상승
+Verisign,하락
+Verisk Analytics,하락
+Verizon,상승
+Vertex Pharmaceuticals,상승
+Viatris,상승
+Vici Properties,상승
+Visa Inc-,상승
+Vistra Corp-,하락
+Vulcan Materials Company,상승
+W- R- Berkley Corporation,상승
+W- W- Grainger,상승
+Wabtec,상승
+Walgreens Boots Alliance,상승
+Walmart,하락
+Walt Disney Company (The),상승
+Warner Bros- Discovery,상승
+Waste Management,상승
+Waters Corporation,상승
+WEC Energy Group,상승
+Wells Fargo,상승
+Welltower,상승
+West Pharmaceutical Services,하락
+Western Digital,상승
+Weyerhaeuser,상승
+"Williams-Sonoma, Inc-",상승
+Williams Companies,하락
+Willis Towers Watson,상승
+"Workday, Inc-",상승
+Wynn Resorts,하락
+Xcel Energy,상승
+Xylem Inc-,상승
+Yum! Brands,상승
+Zebra Technologies,상승
+Zimmer Biomet,상승
+Zoetis,상승
