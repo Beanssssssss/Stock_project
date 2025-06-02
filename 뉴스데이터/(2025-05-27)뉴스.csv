@@ -1,0 +1,504 @@
+감정점수,종목
+53.97908389568329,Abbott Laboratories
+36.23596727848053,Ameren
+34.75672096014023,Advanced Micro Devices
+31.118317544460297,Amazon
+29.228572845458984,3M
+28.330464363098145,Allegion
+25.09817361831665,Altria
+23.580737113952637,Accenture
+23.46858948469162,Akamai Technologies
+19.910844564437866,Amcor
+17.3165225982666,Alliant Energy
+16.68217897415161,Adobe Inc-
+15.008304119110107,Align Technology
+14.977156519889832,Albemarle Corporation
+10.517326593399048,Allstate
+3.351166844367981,Alphabet Inc- (Class A)
+3.351166844367981,Alphabet Inc- (Class C)
+3.1896692514419556,AbbVie
+0.0,Mettler Toledo
+0.0,Linde plc
+0.0,LKQ Corporation
+0.0,Nordson Corporation
+0.0,NextEra Energy
+0.0,Newmont
+0.0,Netflix
+0.0,Omnicom Group
+0.0,Lennox International
+0.0,Martin Marietta Materials
+0.0,Micron Technology
+0.0,Norwegian Cruise Line Holdings
+0.0,"Nasdaq, Inc-"
+0.0,Molina Healthcare
+0.0,Mosaic Company (The)
+0.0,Marathon Petroleum
+0.0,NiSource
+0.0,Merck & Co-
+0.0,"Nike, Inc-"
+0.0,Northrop Grumman
+0.0,ServiceNow
+0.0,Microsoft
+0.0,Motorola Solutions
+0.0,M&T Bank
+0.0,Match Group
+0.0,Monolithic Power Systems
+0.0,Public Storage
+0.0,Pfizer
+0.0,PepsiCo
+0.0,Public Service Enterprise Group
+0.0,PG&E Corporation
+0.0,Monster Beverage
+0.0,Paramount Global
+0.0,Palo Alto Networks
+0.0,Occidental Petroleum
+0.0,Otis Worldwide
+0.0,O’Reilly Automotive
+0.0,Parker Hannifin
+0.0,Progressive Corporation
+0.0,Procter & Gamble
+0.0,Marsh McLennan
+0.0,Old Dominion
+0.0,Realty Income
+0.0,NXP Semiconductors
+0.0,News Corp (Class A)
+0.0,Paccar
+0.0,Paychex
+0.0,Paycom
+0.0,Nucor
+0.0,Northern Trust
+0.0,NetApp
+0.0,Norfolk Southern
+0.0,NRG Energy
+0.0,Oracle Corporation
+0.0,ON Semiconductor
+0.0,Oneok
+0.0,L3Harris
+0.0,Labcorp
+0.0,Lennar
+0.0,Leidos
+0.0,Loews Corporation
+0.0,Las Vegas Sands
+0.0,Southwest Airlines
+0.0,Lululemon Athletica
+0.0,CarMax
+0.0,Kinder Morgan
+0.0,Kimberly-Clark
+0.0,KLA Corporation
+0.0,KKR & Co-
+0.0,Principal Financial Group
+0.0,Huntington Bancshares
+0.0,Hasbro
+0.0,KeyCorp
+0.0,Keurig Dr Pepper
+0.0,Kellanova
+0.0,JPMorgan Chase
+0.0,Juniper Networks
+0.0,Kenvue
+0.0,Kroger
+0.0,Coca-Cola Company (The)
+0.0,Jabil
+0.0,J-B- Hunt
+0.0,Jacobs Solutions
+0.0,Illinois Tool Works
+0.0,HCA Healthcare
+0.0,MarketAxess
+0.0,McCormick & Company
+0.0,Mohawk Industries
+0.0,MSCI Inc-
+0.0,Morgan Stanley
+0.0,Moderna
+0.0,Medtronic
+0.0,Mondelez International
+0.0,Moody's Corporation
+0.0,McKesson Corporation
+0.0,Microchip Technology
+0.0,Gartner
+0.0,Intuitive Surgical
+0.0,Marriott International
+0.0,Mid-America Apartment Communities
+0.0,Mastercard
+0.0,Live Nation Entertainment
+0.0,LyondellBasell
+0.0,Lamb Weston
+0.0,MGM Resorts
+0.0,Meta Platforms
+0.0,MetLife
+0.0,Lam Research
+0.0,Lowe's
+0.0,Lockheed Martin
+0.0,Lilly (Eli)
+0.0,McDonald's
+0.0,Masco
+0.0,Iron Mountain
+0.0,J-M- Smucker Company (The)
+0.0,Waste Management
+0.0,Wells Fargo
+0.0,Welltower
+0.0,WEC Energy Group
+0.0,Western Digital
+0.0,Arthur J- Gallagher & Co-
+0.0,ExxonMobil
+0.0,Xcel Energy
+0.0,Waters Corporation
+0.0,Wabtec
+0.0,Verizon
+0.0,Viatris
+0.0,Invesco
+0.0,W- R- Berkley Corporation
+0.0,Walmart
+0.0,Williams Companies
+0.0,Zebra Technologies
+0.0,Vulcan Materials Company
+0.0,Veralto
+0.0,Valero Energy
+0.0,Vici Properties
+0.0,"Workday, Inc-"
+0.0,Warner Bros- Discovery
+0.0,Walgreens Boots Alliance
+0.0,TransDigm Group
+0.0,Molson Coors Beverage Company
+0.0,AT&T
+0.0,Ventas
+0.0,Arch Capital Group
+0.0,Avery Dennison
+0.0,Broadcom
+0.0,AvalonBay Communities
+0.0,Vistra Corp-
+0.0,Vertex Pharmaceuticals
+0.0,Verisign
+0.0,Atmos Energy
+0.0,Aptiv
+0.0,Apollo Global Management
+0.0,Amphenol
+0.0,APA Corporation
+0.0,Boeing
+0.0,AutoZone
+0.0,Schlumberger
+0.0,Aon plc
+0.0,Ansys
+0.0,Arista Networks
+0.0,American Tower
+0.0,Ameriprise Financial
+0.0,Amgen
+0.0,Ametek
+0.0,Applied Materials
+0.0,Zimmer Biomet
+0.0,Weyerhaeuser
+0.0,Willis Towers Watson
+0.0,West Pharmaceutical Services
+0.0,"Williams-Sonoma, Inc-"
+0.0,Supermicro
+0.0,American Express
+0.0,Rockwell Automation
+0.0,ResMed
+0.0,Ralph Lauren Corporation
+0.0,News Corp (Class B)
+0.0,"NVR, Inc-"
+0.0,Nvidia
+0.0,Regency Centers
+0.0,Royal Caribbean Group
+0.0,Qualcomm
+0.0,PayPal
+0.0,Quanta Services
+0.0,RTX Corporation
+0.0,Republic Services
+0.0,Ross Stores
+0.0,Sysco
+0.0,PPL Corporation
+0.0,PPG Industries
+0.0,Pool Corporation
+0.0,Insulet Corporation
+0.0,Raymond James Financial
+0.0,Regions Financial Corporation
+0.0,Regeneron Pharmaceuticals
+0.0,Philip Morris International
+0.0,Palantir Technologies
+0.0,Prologis
+0.0,Packaging Corporation of America
+0.0,PulteGroup
+0.0,PTC Inc-
+0.0,Phillips 66
+0.0,Prudential Financial
+0.0,Stryker Corporation
+0.0,Pinnacle West Capital
+0.0,Pentair
+0.0,PNC Financial Services
+0.0,Smurfit Westrock
+0.0,Constellation Brands
+0.0,Seagate Technology
+0.0,State Street Corporation
+0.0,Steel Dynamics
+0.0,TE Connectivity
+0.0,Bio-Techne
+0.0,Teledyne Technologies
+0.0,Simon Property Group
+0.0,Solventum
+0.0,"Rollins, Inc-"
+0.0,Synopsys
+0.0,Snap-on
+0.0,Synchrony Financial
+0.0,Skyworks Solutions
+0.0,Stanley Black & Decker
+0.0,Sherwin-Williams
+0.0,Charles Schwab Corporation
+0.0,Starbucks
+0.0,SBA Communications
+0.0,Revvity
+0.0,Steris
+0.0,Sempra
+0.0,S&P Global
+0.0,Roper Technologies
+0.0,Southern Company
+0.0,Comcast
+0.0,Clorox
+0.0,Colgate-Palmolive
+0.0,Cincinnati Financial
+0.0,Costco
+0.0,Cencora
+0.0,ConocoPhillips
+0.0,Church & Dwight
+0.0,Citizens Financial Group
+0.0,CF Industries
+0.0,Constellation Energy
+0.0,CDW Corporation
+0.0,CMS Energy
+0.0,Cummins
+0.0,American Water Works
+0.0,CBRE Group
+0.0,Cboe Global Markets
+0.0,Chubb Limited
+0.0,Caterpillar Inc-
+0.0,Carrier Global
+0.0,Texas Pacific Land Corporation
+0.0,T-Mobile US
+0.0,Thermo Fisher Scientific
+0.0,"BXP, Inc-"
+0.0,Blackstone Inc-
+0.0,Boston Scientific
+0.0,Brown & Brown
+0.0,Berkshire Hathaway
+0.0,Cadence Design Systems
+0.0,Chipotle Mexican Grill
+0.0,Delta Air Lines
+0.0,Dominion Energy
+0.0,Caesars Entertainment
+0.0,Dollar Tree
+0.0,Digital Realty
+0.0,Walt Disney Company (The)
+0.0,Cognizant
+0.0,Coterra
+0.0,Cintas
+0.0,CSX Corporation
+0.0,CoStar Group
+0.0,Deckers Brands
+0.0,Deere & Company
+0.0,DuPont
+0.0,CME Group
+0.0,Camden Property Trust
+0.0,Copart
+0.0,Campbell's Company (The)
+0.0,Corpay
+0.0,Bunge Global
+0.0,Brown–Forman
+0.0,Franklin Resources
+0.0,Cooper Companies (The)
+0.0,Coinbase
+0.0,Capital One
+0.0,CenterPoint Energy
+0.0,Centene Corporation
+0.0,Cisco
+0.0,CrowdStrike
+0.0,Salesforce
+0.0,Charles River Laboratories
+0.0,U-S- Bancorp
+0.0,United Rentals
+0.0,Travelers Companies (The)
+0.0,T- Rowe Price
+0.0,Trimble Inc-
+0.0,Targa Resources
+0.0,"Tapestry, Inc-"
+0.0,"UDR, Inc-"
+0.0,Uber
+0.0,United Airlines Holdings
+0.0,TJX Companies
+0.0,Target Corporation
+0.0,Truist Financial
+0.0,Teradyne
+0.0,Carnival
+0.0,"Tesla, Inc-"
+0.0,Tractor Supply
+0.0,Zoetis
+0.0,United Parcel Service
+0.0,Verisk Analytics
+0.0,Axon Enterprise
+0.0,TKO Group Holdings
+0.0,Wynn Resorts
+0.0,Yum! Brands
+0.0,American Electric Power
+0.0,Autodesk
+0.0,Automatic Data Processing
+0.0,Archer Daniels Midland
+0.0,Analog Devices
+0.0,Tyson Foods
+0.0,Crown Castle
+0.0,Builders FirstSource
+0.0,Baker Hughes
+0.0,Booking Holdings
+0.0,BNY Mellon
+0.0,Biogen
+0.0,Cardinal Health
+0.0,Conagra Brands
+0.0,Citigroup
+0.0,Becton Dickinson
+0.0,Best Buy
+0.0,Baxter International
+0.0,Ball Corporation
+0.0,Bank of America
+0.0,Visa Inc-
+0.0,Bristol Myers Squibb
+0.0,BlackRock
+0.0,Apple Inc-
+0.0,Union Pacific Corporation
+0.0,UnitedHealth Group
+0.0,Ulta Beauty
+0.0,Universal Health Services
+0.0,Assurant
+0.0,American International Group
+0.0,Xylem Inc-
+0.0,Tyler Technologies
+0.0,Textron
+0.0,Texas Instruments
+0.0,Take-Two Interactive
+0.0,Trane Technologies
+0.0,Broadridge Financial Solutions
+0.0,Home Depot (The)
+0.0,Howmet Aerospace
+0.0,Humana
+0.0,Hubbell Incorporated
+0.0,Halliburton
+0.0,W- W- Grainger
+0.0,Goldman Sachs
+0.0,Garmin
+0.0,Global Payments
+0.0,Hewlett Packard Enterprise
+0.0,Honeywell
+0.0,Hologic
+0.0,Generac
+0.0,General Motors
+0.0,DoorDash
+0.0,Globe Life
+0.0,General Mills
+0.0,Everest Group
+0.0,Equifax
+0.0,Consolidated Edison
+0.0,GE HealthCare
+0.0,GE Aerospace
+0.0,GoDaddy
+0.0,General Dynamics
+0.0,Fortive
+0.0,Genuine Parts Company
+0.0,Fox Corporation (Class A)
+0.0,Fox Corporation (Class B)
+0.0,Fifth Third Bancorp
+0.0,Corning Inc-
+0.0,Kimco Realty
+0.0,Kraft Heinz
+0.0,Keysight Technologies
+0.0,Ingersoll Rand
+0.0,IQVIA
+0.0,Interpublic Group of Companies (The)
+0.0,International Paper
+0.0,Invitation Homes
+0.0,Johnson & Johnson
+0.0,Jack Henry & Associates
+0.0,Johnson Controls
+0.0,International Flavors & Fragrances
+0.0,IDEX Corporation
+0.0,Idexx Laboratories
+0.0,Hess Corporation
+0.0,IBM
+0.0,Fiserv
+0.0,"F5, Inc-"
+0.0,FirstEnergy
+0.0,Hershey Company (The)
+0.0,Host Hotels & Resorts
+0.0,Henry Schein
+0.0,Hormel Foods
+0.0,HP Inc-
+0.0,Intuit
+0.0,Intel
+0.0,Incyte
+0.0,Hilton Worldwide
+0.0,Huntington Ingalls Industries
+0.0,Hartford (The)
+0.0,Intercontinental Exchange
+0.0,Estée Lauder Companies (The)
+0.0,Edison International
+0.0,Entergy
+0.0,Eaton Corporation
+0.0,Essex Property Trust
+0.0,Ecolab
+0.0,eBay Inc-
+0.0,Electronic Arts
+0.0,Dexcom
+0.0,Devon Energy
+0.0,EPAM Systems
+0.0,EOG Resources
+0.0,Enphase Energy
+0.0,Darden Restaurants
+0.0,Fidelity National Information Services
+0.0,Dow Inc-
+0.0,Dover Corporation
+0.0,Healthpeak Properties
+0.0,Cigna
+0.0,Charter Communications
+0.0,C-H- Robinson
+0.0,Danaher Corporation
+0.0,D- R- Horton
+0.0,Quest Diagnostics
+0.0,Dollar General
+0.0,Dell Technologies
+0.0,DaVita
+0.0,Duke Energy
+0.0,DTE Energy
+0.0,Dayforce
+0.0,Domino's
+0.0,Fair Isaac
+0.0,Gilead Sciences
+0.0,GE Vernova
+0.0,Gen Digital
+0.0,FedEx
+0.0,FactSet
+0.0,Freeport-McMoRan
+0.0,Fastenal
+0.0,Diamondback Energy
+0.0,Fortinet
+0.0,First Solar
+0.0,Federal Realty Investment Trust
+0.0,Expeditors International
+0.0,Expand Energy
+0.0,Elevance Health
+0.0,Edwards Lifesciences
+0.0,Evergy
+0.0,Chevron Corporation
+0.0,CVS Health
+0.0,Corteva
+0.0,Eversource Energy
+0.0,Erie Indemnity
+0.0,EQT Corporation
+0.0,Equity Residential
+0.0,Equinix
+0.0,Ford Motor Company
+0.0,Extra Space Storage
+0.0,Expedia Group
+0.0,Emerson Electric
+0.0,Eastman Chemical Company
+0.0,Exelon
+-0.4292723536491394,Agilent Technologies
+-0.5321773886680603,Alexandria Real Estate Equities
+-4.963628053665161,AES Corporation
+-22.347258627414703,A- O- Smith
+-22.723145186901093,Air Products
+-25.63267081975937,Aflac
+-39.89713728427887,Airbnb
