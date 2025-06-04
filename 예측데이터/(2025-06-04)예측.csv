@@ -1,0 +1,504 @@
+종목,상승확률,상승여부
+3M,99.83,상승
+A- O- Smith,99.84,상승
+Abbott Laboratories,63.4,상승
+AbbVie,0.36,하락
+Accenture,1.0,하락
+Adobe Inc-,99.72,상승
+Advanced Micro Devices,99.51,상승
+AES Corporation,97.39,상승
+Aflac,51.59,상승
+Agilent Technologies,66.53,상승
+Air Products,98.68,상승
+Airbnb,99.53,상승
+Akamai Technologies,99.66,상승
+Albemarle Corporation,100.0,상승
+Alexandria Real Estate Equities,71.68,상승
+Align Technology,74.22,상승
+Allegion,2.93,하락
+Alliant Energy,66.77,상승
+Allstate,2.42,하락
+Alphabet Inc- (Class A),0.03,하락
+Alphabet Inc- (Class C),0.33,하락
+Altria,0.01,하락
+Amazon,7.21,하락
+Amcor,96.68,상승
+Ameren,76.54,상승
+American Electric Power,0.03,하락
+American Express,99.27,상승
+American International Group,25.24,하락
+American Tower,0.02,하락
+American Water Works,0.01,하락
+Ameriprise Financial,90.48,상승
+Ametek,77.74,상승
+Amgen,54.49,상승
+Amphenol,99.62,상승
+Analog Devices,99.07,상승
+Ansys,96.44,상승
+Aon plc,3.63,하락
+APA Corporation,99.96,상승
+Apollo Global Management,83.6,상승
+Apple Inc-,48.92,하락
+Applied Materials,99.98,상승
+Aptiv,99.95,상승
+Arch Capital Group,12.66,하락
+Archer Daniels Midland,0.0,하락
+Arista Networks,99.75,상승
+Arthur J- Gallagher & Co-,0.01,하락
+Assurant,91.08,상승
+AT&T,4.38,하락
+Atmos Energy,62.63,상승
+Autodesk,98.14,상승
+Automatic Data Processing,69.61,상승
+AutoZone,16.67,하락
+AvalonBay Communities,0.02,하락
+Avery Dennison,99.99,상승
+Axon Enterprise,25.94,하락
+Baker Hughes,40.65,하락
+Ball Corporation,99.82,상승
+Bank of America,99.68,상승
+Baxter International,98.41,상승
+Becton Dickinson,98.34,상승
+Berkshire Hathaway,0.0,하락
+Best Buy,67.19,상승
+Bio-Techne,29.77,하락
+Biogen,52.98,상승
+BlackRock,98.89,상승
+Blackstone Inc-,59.52,상승
+BNY Mellon,84.02,상승
+Boeing,99.99,상승
+Booking Holdings,10.86,하락
+Boston Scientific,0.0,하락
+Bristol Myers Squibb,0.0,하락
+Broadcom,99.72,상승
+Broadridge Financial Solutions,99.71,상승
+Brown & Brown,0.0,하락
+Brown–Forman,88.04,상승
+Builders FirstSource,99.95,상승
+Bunge Global,0.0,하락
+"BXP, Inc-",100.0,상승
+C-H- Robinson,76.56,상승
+Cadence Design Systems,86.73,상승
+Caesars Entertainment,28.46,하락
+Camden Property Trust,87.35,상승
+Campbell's Company (The),64.17,상승
+Capital One,97.76,상승
+Cardinal Health,4.13,하락
+CarMax,98.0,상승
+Carnival,99.98,상승
+Carrier Global,99.02,상승
+Caterpillar Inc-,91.74,상승
+Cboe Global Markets,0.04,하락
+CBRE Group,90.04,상승
+CDW Corporation,99.97,상승
+Cencora,0.12,하락
+Centene Corporation,99.93,상승
+CenterPoint Energy,4.65,하락
+CF Industries,1.07,하락
+Charles River Laboratories,99.7,상승
+Charles Schwab Corporation,55.33,상승
+Charter Communications,0.89,하락
+Chevron Corporation,96.47,상승
+Chipotle Mexican Grill,98.59,상승
+Chubb Limited,0.01,하락
+Church & Dwight,55.32,상승
+Cigna,2.19,하락
+Cincinnati Financial,13.54,하락
+Cintas,95.49,상승
+Cisco,96.13,상승
+Citigroup,99.95,상승
+Citizens Financial Group,99.71,상승
+Clorox,60.62,상승
+CME Group,0.0,하락
+CMS Energy,89.29,상승
+Coca-Cola Company (The),0.0,하락
+Cognizant,94.17,상승
+Coinbase,99.28,상승
+Colgate-Palmolive,0.0,하락
+Comcast,99.36,상승
+Conagra Brands,16.92,하락
+ConocoPhillips,84.02,상승
+Consolidated Edison,2.96,하락
+Constellation Brands,99.82,상승
+Constellation Energy,95.03,상승
+Cooper Companies (The),99.04,상승
+Copart,98.16,상승
+Corning Inc-,99.77,상승
+Corpay,99.85,상승
+Corteva,64.34,상승
+CoStar Group,100.0,상승
+Costco,91.33,상승
+Coterra,99.22,상승
+CrowdStrike,99.83,상승
+Crown Castle,60.49,상승
+CSX Corporation,99.91,상승
+Cummins,100.0,상승
+CVS Health,4.64,하락
+Danaher Corporation,96.8,상승
+Darden Restaurants,99.79,상승
+DaVita,99.97,상승
+Dayforce,94.57,상승
+Deckers Brands,68.48,상승
+Deere & Company,98.74,상승
+Dell Technologies,99.99,상승
+Delta Air Lines,96.62,상승
+Devon Energy,94.13,상승
+Dexcom,98.6,상승
+Diamondback Energy,98.52,상승
+Digital Realty,96.64,상승
+Dollar General,100.0,상승
+Dollar Tree,99.99,상승
+Dominion Energy,65.96,상승
+Domino's,48.01,하락
+DoorDash,77.86,상승
+Dover Corporation,99.95,상승
+Dow Inc-,99.25,상승
+D- R- Horton,98.34,상승
+DTE Energy,35.31,하락
+Duke Energy,0.01,하락
+DuPont,73.83,상승
+Eastman Chemical Company,99.68,상승
+Eaton Corporation,99.95,상승
+eBay Inc-,99.68,상승
+Ecolab,30.96,하락
+Edison International,99.69,상승
+Edwards Lifesciences,1.03,하락
+Electronic Arts,79.96,상승
+Elevance Health,70.88,상승
+Emerson Electric,99.99,상승
+Enphase Energy,96.29,상승
+Entergy,6.32,하락
+EOG Resources,10.99,하락
+EPAM Systems,99.94,상승
+EQT Corporation,26.66,하락
+Equifax,99.55,상승
+Equinix,88.68,상승
+Equity Residential,0.04,하락
+Erie Indemnity,75.46,상승
+Essex Property Trust,0.71,하락
+Estée Lauder Companies (The),95.12,상승
+Everest Group,47.19,하락
+Evergy,0.0,하락
+Eversource Energy,81.14,상승
+Exelon,0.05,하락
+Expand Energy,1.23,하락
+Expedia Group,79.15,상승
+Expeditors International,98.71,상승
+Extra Space Storage,0.01,하락
+ExxonMobil,66.1,상승
+"F5, Inc-",73.25,상승
+FactSet,0.0,하락
+Fair Isaac,32.08,하락
+Fastenal,98.0,상승
+Federal Realty Investment Trust,92.33,상승
+FedEx,45.17,하락
+Fidelity National Information Services,98.73,상승
+Fifth Third Bancorp,99.35,상승
+First Solar,99.98,상승
+FirstEnergy,0.04,하락
+Fiserv,42.31,하락
+Ford Motor Company,93.16,상승
+Fortinet,1.29,하락
+Fortive,99.99,상승
+Fox Corporation (Class A),87.14,상승
+Fox Corporation (Class B),89.26,상승
+Franklin Resources,97.33,상승
+Freeport-McMoRan,87.86,상승
+Garmin,98.61,상승
+Gartner,98.3,상승
+GE Aerospace,98.66,상승
+GE HealthCare,99.1,상승
+GE Vernova,72.66,상승
+Gen Digital,99.84,상승
+Generac,100.0,상승
+General Dynamics,72.17,상승
+General Mills,91.08,상승
+General Motors,98.37,상승
+Genuine Parts Company,2.41,하락
+Gilead Sciences,10.54,하락
+Global Payments,97.38,상승
+Globe Life,32.41,하락
+GoDaddy,99.51,상승
+Goldman Sachs,89.07,상승
+Halliburton,99.49,상승
+Hartford (The),61.17,상승
+Hasbro,7.08,하락
+HCA Healthcare,94.92,상승
+Healthpeak Properties,16.82,하락
+Henry Schein,99.83,상승
+Hershey Company (The),98.34,상승
+Hess Corporation,99.91,상승
+Hewlett Packard Enterprise,99.81,상승
+Hilton Worldwide,99.87,상승
+Hologic,95.24,상승
+Home Depot (The),99.92,상승
+Honeywell,86.53,상승
+Hormel Foods,17.67,하락
+Host Hotels & Resorts,99.92,상승
+Howmet Aerospace,7.13,하락
+HP Inc-,56.66,상승
+Hubbell Incorporated,99.08,상승
+Humana,99.52,상승
+Huntington Bancshares,99.08,상승
+Huntington Ingalls Industries,99.99,상승
+IBM,83.47,상승
+IDEX Corporation,99.38,상승
+Idexx Laboratories,99.97,상승
+Illinois Tool Works,99.98,상승
+Incyte,99.73,상승
+Ingersoll Rand,98.99,상승
+Insulet Corporation,2.36,하락
+Intel,99.86,상승
+Intercontinental Exchange,28.18,하락
+International Flavors & Fragrances,99.85,상승
+International Paper,95.49,상승
+Interpublic Group of Companies (The),99.95,상승
+Intuit,59.2,상승
+Intuitive Surgical,88.83,상승
+Invesco,38.45,하락
+Invitation Homes,0.05,하락
+IQVIA,98.77,상승
+Iron Mountain,94.73,상승
+J-B- Hunt,99.59,상승
+Jabil,99.91,상승
+Jack Henry & Associates,44.81,하락
+Jacobs Solutions,98.8,상승
+Johnson & Johnson,0.24,하락
+Johnson Controls,98.82,상승
+JPMorgan Chase,99.89,상승
+Juniper Networks,62.32,상승
+Kellanova,0.0,하락
+Kenvue,0.0,하락
+Keurig Dr Pepper,0.11,하락
+KeyCorp,99.43,상승
+Keysight Technologies,96.42,상승
+Kimberly-Clark,0.0,하락
+Kimco Realty,99.85,상승
+Kinder Morgan,35.55,하락
+KKR & Co-,48.66,하락
+KLA Corporation,99.7,상승
+Kraft Heinz,84.77,상승
+Kroger,0.0,하락
+L3Harris,77.74,상승
+Labcorp,98.7,상승
+Lam Research,90.98,상승
+Lamb Weston,88.22,상승
+Las Vegas Sands,99.64,상승
+Leidos,99.13,상승
+Lennar,98.74,상승
+Lennox International,99.99,상승
+Lilly (Eli),3.39,하락
+Linde plc,96.69,상승
+Live Nation Entertainment,2.34,하락
+LKQ Corporation,98.18,상승
+Lockheed Martin,0.59,하락
+Loews Corporation,19.09,하락
+Lowe's,98.39,상승
+Lululemon Athletica,99.96,상승
+LyondellBasell,99.99,상승
+M&T Bank,99.98,상승
+Marathon Petroleum,99.07,상승
+MarketAxess,0.0,하락
+Marriott International,100.0,상승
+Marsh McLennan,0.21,하락
+Martin Marietta Materials,99.48,상승
+Masco,99.64,상승
+Mastercard,96.89,상승
+Match Group,92.09,상승
+McCormick & Company,2.67,하락
+McDonald's,30.52,하락
+McKesson Corporation,0.0,하락
+Medtronic,99.63,상승
+Merck & Co-,53.15,상승
+Meta Platforms,9.11,하락
+MetLife,99.75,상승
+Mettler Toledo,99.8,상승
+MGM Resorts,99.9,상승
+Microchip Technology,99.97,상승
+Micron Technology,99.99,상승
+Microsoft,52.99,상승
+Mid-America Apartment Communities,0.0,하락
+Moderna,15.68,하락
+Mohawk Industries,98.67,상승
+Molina Healthcare,27.05,하락
+Molson Coors Beverage Company,65.43,상승
+Mondelez International,0.08,하락
+Monolithic Power Systems,98.08,상승
+Monster Beverage,55.94,상승
+Moody's Corporation,78.58,상승
+Morgan Stanley,99.98,상승
+Mosaic Company (The),29.09,하락
+Motorola Solutions,2.54,하락
+MSCI Inc-,19.33,하락
+"Nasdaq, Inc-",8.08,하락
+NetApp,99.99,상승
+Netflix,46.61,하락
+Newmont,91.53,상승
+News Corp (Class A),1.88,하락
+News Corp (Class B),26.3,하락
+NextEra Energy,91.53,상승
+"Nike, Inc-",99.58,상승
+NiSource,0.05,하락
+Nordson Corporation,18.69,하락
+Norfolk Southern,97.85,상승
+Northern Trust,99.11,상승
+Northrop Grumman,14.31,하락
+Norwegian Cruise Line Holdings,85.45,상승
+NRG Energy,99.39,상승
+Nucor,99.95,상승
+Nvidia,99.51,상승
+"NVR, Inc-",98.13,상승
+NXP Semiconductors,99.87,상승
+O’Reilly Automotive,33.0,하락
+Occidental Petroleum,98.25,상승
+Old Dominion,99.23,상승
+Omnicom Group,99.97,상승
+ON Semiconductor,100.0,상승
+Oneok,69.54,상승
+Oracle Corporation,99.78,상승
+Otis Worldwide,99.82,상승
+Paccar,99.61,상승
+Packaging Corporation of America,86.53,상승
+Palantir Technologies,25.16,하락
+Palo Alto Networks,99.93,상승
+Paramount Global,93.16,상승
+Parker Hannifin,95.28,상승
+Paychex,51.79,상승
+Paycom,80.89,상승
+PayPal,97.27,상승
+Pentair,99.99,상승
+PepsiCo,67.81,상승
+Pfizer,21.98,하락
+PG&E Corporation,81.92,상승
+Philip Morris International,54.18,상승
+Phillips 66,90.78,상승
+Pinnacle West Capital,2.99,하락
+PNC Financial Services,99.72,상승
+Pool Corporation,99.99,상승
+PPG Industries,98.13,상승
+PPL Corporation,0.02,하락
+Principal Financial Group,99.05,상승
+Procter & Gamble,0.66,하락
+Progressive Corporation,9.48,하락
+Prologis,97.31,상승
+Prudential Financial,99.95,상승
+Public Service Enterprise Group,96.01,상승
+PTC Inc-,99.79,상승
+Public Storage,0.0,하락
+PulteGroup,84.48,상승
+Quanta Services,99.99,상승
+Qualcomm,99.65,상승
+Quest Diagnostics,84.65,상승
+Ralph Lauren Corporation,98.52,상승
+Raymond James Financial,93.71,상승
+RTX Corporation,69.14,상승
+Realty Income,0.0,하락
+Regency Centers,93.65,상승
+Regeneron Pharmaceuticals,85.63,상승
+Regions Financial Corporation,99.77,상승
+Republic Services,0.59,하락
+ResMed,99.6,상승
+Revvity,99.03,상승
+Rockwell Automation,8.04,하락
+"Rollins, Inc-",9.03,하락
+Roper Technologies,97.14,상승
+Ross Stores,99.3,상승
+Royal Caribbean Group,99.92,상승
+S&P Global,11.31,하락
+Salesforce,95.02,상승
+SBA Communications,0.0,하락
+Schlumberger,94.09,상승
+Seagate Technology,98.79,상승
+Sempra,7.01,하락
+ServiceNow,3.95,하락
+Sherwin-Williams,73.11,상승
+Simon Property Group,3.64,하락
+Skyworks Solutions,99.95,상승
+J-M- Smucker Company (The),94.35,상승
+Smurfit Westrock,95.5,상승
+Snap-on,99.99,상승
+Solventum,99.85,상승
+Southern Company,0.02,하락
+Southwest Airlines,1.58,하락
+Stanley Black & Decker,87.93,상승
+Starbucks,99.85,상승
+State Street Corporation,89.14,상승
+Steel Dynamics,99.99,상승
+Steris,99.1,상승
+Stryker Corporation,99.12,상승
+Supermicro,72.45,상승
+Synchrony Financial,99.95,상승
+Synopsys,37.54,하락
+Sysco,94.68,상승
+T-Mobile US,6.88,하락
+T- Rowe Price,99.71,상승
+Take-Two Interactive,99.89,상승
+"Tapestry, Inc-",94.11,상승
+Targa Resources,79.86,상승
+Target Corporation,99.54,상승
+TE Connectivity,99.42,상승
+Teledyne Technologies,94.99,상승
+Teradyne,99.97,상승
+"Tesla, Inc-",93.07,상승
+Texas Instruments,99.84,상승
+Texas Pacific Land Corporation,93.38,상승
+Textron,99.78,상승
+Thermo Fisher Scientific,99.15,상승
+TJX Companies,63.35,상승
+TKO Group Holdings,98.4,상승
+Tractor Supply,100.0,상승
+Trane Technologies,99.53,상승
+TransDigm Group,24.02,하락
+Travelers Companies (The),1.05,하락
+Trimble Inc-,99.98,상승
+Truist Financial,94.81,상승
+Tyler Technologies,99.31,상승
+Tyson Foods,0.06,하락
+U-S- Bancorp,99.99,상승
+Uber,22.65,하락
+"UDR, Inc-",3.5,하락
+Ulta Beauty,11.42,하락
+Union Pacific Corporation,99.99,상승
+United Airlines Holdings,29.65,하락
+United Parcel Service,98.93,상승
+United Rentals,87.9,상승
+UnitedHealth Group,0.15,하락
+Universal Health Services,97.4,상승
+Valero Energy,90.87,상승
+Ventas,0.01,하락
+Veralto,17.19,하락
+Verisign,99.59,상승
+Verisk Analytics,30.34,하락
+Verizon,0.03,하락
+Vertex Pharmaceuticals,7.8,하락
+Viatris,99.06,상승
+Vici Properties,74.72,상승
+Visa Inc-,97.26,상승
+Vistra Corp-,99.99,상승
+Vulcan Materials Company,99.89,상승
+W- R- Berkley Corporation,0.95,하락
+W- W- Grainger,87.24,상승
+Wabtec,99.91,상승
+Walgreens Boots Alliance,20.23,하락
+Walmart,55.0,상승
+Walt Disney Company (The),97.83,상승
+Warner Bros- Discovery,90.7,상승
+Waste Management,0.08,하락
+Waters Corporation,99.8,상승
+WEC Energy Group,11.22,하락
+Wells Fargo,98.21,상승
+Welltower,0.03,하락
+West Pharmaceutical Services,94.15,상승
+Western Digital,99.98,상승
+Weyerhaeuser,96.47,상승
+"Williams-Sonoma, Inc-",99.62,상승
+Williams Companies,81.57,상승
+Willis Towers Watson,0.0,하락
+"Workday, Inc-",99.84,상승
+Wynn Resorts,86.68,상승
+Xcel Energy,12.21,하락
+Xylem Inc-,99.24,상승
+Yum! Brands,7.41,하락
+Zebra Technologies,99.98,상승
+Zimmer Biomet,98.43,상승
+Zoetis,4.87,하락

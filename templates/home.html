@@ -1,39 +1,163 @@
 <!doctype html>
 <html lang="ko">
 <head>
-    <title>봉식이네 주식 추천소</title>
+    <title>봉식이네</title>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css">
     <link href="https://fonts.googleapis.com/css2?family=Do+Hyeon&display=swap" rel="stylesheet">
-
-<!-- CSS에 사용 -->
     <style>
     body {
         font-family: 'Do Hyeon', sans-serif;
+        background-color: #fffafc;
     }
+
     .nav-tabs .nav-link {
-        padding: 1rem 2.5rem;   /* 상하 1rem, 좌우 2.5rem로 넓게 */
-        font-size: 1.2rem;      /* 글씨도 약간 키움 */
-        border-radius: 0.75rem 0.75rem 0 0; /* 둥글게(선택) */
+        padding: 1rem 2.5rem;
+        font-size: 1.2rem;
+        border-radius: 0.75rem 0.75rem 0 0;
+        color: hotpink !important;
     }
+
     .nav-tabs {
         margin-bottom: 1rem;
     }
 
+    .nav-tabs .nav-link.active {
+        background-color: #fff;
+        border-color: #dee2e6 #dee2e6 #fff;
+        color: deeppink !important;
+        font-weight: bold;
+    }
+
+    .nav-pills .nav-link {
+        color: hotpink !important;
+    }
+
+    .nav-pills .nav-link.active {
+        background-color: #fff;
+        color: deeppink !important;
+        border: 1px solid deeppink;
+        font-weight: bold;
+    }
+
+    hr {
+        border-top: 2px dashed hotpink;
+    }
     </style>
 </head>
 <body>
+<!-- 좌측 상단 고정 로고 -->
+<div style="position: fixed; top: 10px; left: 10px; z-index: 9999;">
+    <img src="{{ url_for('static', filename='img/club_logo2.png') }}"
+         alt="로고"
+         style="height: 80px;">
+</div>
+
 <div class="container">
-    <h1 class="mb-4 display-5 text-center rounded p-3">📈 봉식이네 주식 추천소</h1>
+    <h1 class="mb-4 display-5 text-center rounded p-3">📈 BONG'S TALK</h1>
+
+    <!-- 상단 탭 -->
     <ul class="nav nav-tabs">
-        <li class="nav-item"><a class="nav-link {{'active' if tab=='home' else ''}}" href="/?tab=home">홈</a></li>
-        <li class="nav-item"><a class="nav-link {{'active' if tab=='stock' else ''}}" href="/index?tab=stock&subtab=company">주식</a></li>
-        <li class="nav-item"><a class="nav-link {{'active' if tab=='news' else ''}}" href="/news">뉴스</a></li>
-        <li class="nav-item"><a class="nav-link {{'active' if tab=='info' else ''}}" href="/info?tab=info&subtab=거래일 정보">데이터</a></li>
-        <li class="nav-item"><a class="nav-link {{'active' if tab=='support' else ''}}" href="/support?tab=support">고객센터</a></li>
+        <li class="nav-item"><a class="nav-link {{ 'active' if tab == 'home' else '' }}" href="/home?tab=home">홈</a></li>
+        <li class="nav-item"><a class="nav-link {{ 'active' if tab == 'stock' else '' }}" href="/index?tab=stock">주식</a></li>
+        <li class="nav-item"><a class="nav-link {{ 'active' if tab == 'news' else '' }}" href="/news?tab=news">뉴스</a></li>
+        <li class="nav-item"><a class="nav-link {{ 'active' if tab == 'info' else '' }}" href="/info?tab=info">데이터</a></li>
+        <li class="nav-item"><a class="nav-link {{ 'active' if tab == 'support' else '' }}" href="/support?tab=support">고객센터</a></li>
     </ul>
+
     {% if tab == 'home' %}
-        <h2>📊 인공지능 기반 주식 추천 서비스</h2>
-        <p>봉식이 AI가 시장 데이터를 분석해 매일 추천 종목을 알려드려요!</p>
+    <!-- 서브탭 -->
+    <ul class="nav nav-pills mb-3">
+        <li class="nav-item"><a class="nav-link {{ 'active' if subtab == '소개' else '' }}" href="/home?tab=home&subtab=소개">소개</a></li>
+        <li class="nav-item"><a class="nav-link {{ 'active' if subtab == '내 종목' else '' }}" href="/home?tab=home&subtab=내 종목">내 종목</a></li>
+        <li class="nav-item"><a class="nav-link {{ 'active' if subtab == 'AI 성능' else '' }}" href="/home?tab=home&subtab=AI 성능">AI 성능</a></li>
+        <li class="nav-item"><a class="nav-link {{ 'active' if subtab == '봉식이' else '' }}" href="/home?tab=home&subtab=봉식이">봉식이</a></li>
+    </ul>
+
+    <!-- 각 서브탭 내용 -->
+    {% if subtab == '소개' %}
+        <div class="row mt-4">
+            <div class="col-md-4 mb-4">
+                <div class="card shadow-sm h-100">
+                    <div class="card-body">
+                        <h5 class="card-title">📌 서비스 개요</h5>
+                        <p class="card-text">
+                            <strong>BONG'S TALK</strong>은 사용자의 관심 종목을 관리하고,<br>
+                            주식 뉴스 및 AI 기반 예측 정보를 제공합니다.<br><br>
+                            단순한 정보 제공을 넘어, 사용자의 투자 판단을 돕는 도구로 설계되었습니다.
+                        </p>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="col-md-4 mb-4">
+                <div class="card shadow-sm h-100">
+                    <div class="card-body">
+                        <h5 class="card-title">⚙️ 주요 기능</h5>
+                        <ul class="card-text">
+                            <li>📈 <strong>AI 주가 예측</strong> - 과거 데이터 기반 AI가 상승/하락 예측</li>
+                            <li>📰 <strong>최신 뉴스 통합</strong> - Yahoo Finance 기반 최신 뉴스 제공</li>
+                            <li>📋 <strong>관심 종목 관리</strong> - 원하는 종목만 필터링하여 집중 분석</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-md-4 mb-4">
+                <div class="card shadow-sm h-100">
+                    <div class="card-body">
+                        <h5 class="card-title">👨‍🔬 개발자 노트</h5>
+                        <p class="card-text">
+                            본 서비스는 Flask, Bootstrap, Python 기반으로 개발되었으며,<br>
+                            Yahoo Finance와 자체 수집 데이터를 활용합니다.<br><br>
+                            모든 기능은 개인 학습 및 연구 목적을 위해 구현되었습니다.
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    {% elif subtab == '내 종목' %}
+        <h4>⭐ 관심 종목</h4>
+        <table class="table table-striped table-bordered">
+            <thead class="thead-dark">
+                <tr>
+                    <th>티커</th>
+                    <th>회사명</th>
+                    <th>섹터</th>
+                    <th>산업군</th>
+                    <th>본사 위치</th>
+                    <th>설립년도</th>
+                </tr>
+            </thead>
+            <tbody>
+                {% for t in my_tickers %}
+                <tr>
+                    <td>{{ t.Symbol }}</td>
+                    <td>{{ t.Security }}</td>
+                    <td>{{ t["GICS Sector"] }}</td>
+                    <td>{{ t["GICS Sub-Industry"] }}</td>
+                    <td>{{ t["Headquarters Location"] }}</td>
+                    <td>{{ t.Founded }}</td>
+                </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+
+    {% elif subtab == 'AI 성능' %}
+        <h4>📊 AI 예측 성능</h4>
+        <p>주가 데이터 모델 학습 정확도: <strong>84%</strong></p>
+        <p>뉴스 데이터 모델 학습 정확도: <strong>96%</strong></p>
+
+    {% elif subtab == '봉식이' %}
+        <h4 class="text-center">🐶 봉식이를 소개합니다</h4>
+        <div class="text-center mt-4">
+            <img src="{{ url_for('static', filename='img/봉식이.png') }}"
+                 alt="봉식이"
+                 class="img-fluid rounded shadow"
+                 style="max-height: 300px;">
+            <p class="mt-3">우리 서비스의 마스코트, <strong>봉식이</strong>에요!</p>
+        </div>
+    {% endif %}
     {% endif %}
 </div>
 </body>
